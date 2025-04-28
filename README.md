@@ -36,10 +36,10 @@ The application allows the user to set an alarm time, choose a custom alarm song
 - **ConsoleUserInterface.java**: Console-based implementation of the `UserInterface`, for input/output.
 
 ## Requirements
-- Java 12 or higher
+- Java 23 or higher
 - A `.wav` file for a custom alarm sound
 
-> _Note: This project was developed using IntelliJ IDEA and Java 23._
+> _Note: This project was developed using IntelliJ IDEA and Java 23. Additional configuration may be required for other IDEs/editors._
 
 ## How to Use:
 

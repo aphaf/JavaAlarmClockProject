@@ -16,7 +16,9 @@ This is a simple Java alarm clock application which I created while learning Jav
 The application allows the user to set an alarm time, choose a custom alarm song, display a live clock until the alarm is triggered, and play the select audio file once the alarm time is reached. 
 
 ## Video Demo
-![Demo Video](./demo/JavaAlarmClockDemo.mp4)
+![Demo Video](./demo/JavaAlarmClockDemo.gif)
+
+>_To see the demo with sound, check out [Demo Videos](./demo)_
 
 ## Features
 
